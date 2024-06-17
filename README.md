@@ -17,5 +17,3 @@ If you have any questions or suggestions for collaboration, don't hesitate to co
 
 ## Acknowledgements
 Thank you for your interest in my profile. Let's create something awesome together! 🎮
-
-Translated with DeepL.com (free version)
