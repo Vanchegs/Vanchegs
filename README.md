@@ -13,6 +13,7 @@ Here you will find my projects created using Unity and C#. I am constantly worki
 ## Communication
 If you have any questions or suggestions for collaboration, don't hesitate to contact me:
 - Email: halvadev@gmail.com
+- Telegram: @halvaforever
 
 ## Acknowledgements
 Thank you for your interest in my profile. Let's create something awesome together!
